@@ -1,2 +1,8 @@
-# Delivery-de-Pizzas
-Sistema de pedidos de pizza usando árvore binária e SQLite
+- backend/
+  - pizza_system.py
+  - requirements.txt
+- frontend/
+  - index.html
+  - styles.css
+  - script.js
+- app.py
