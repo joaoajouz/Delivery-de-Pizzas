@@ -20,7 +20,7 @@ Versionamento | Git, GitHub
 
  Passo a Passo
  1. Clone o repositório
-git clone https://github.com/seu-usuario/pizza-tree-system.git
+git clone 
 
  2. Acesse a pasta do projeto
 cd pizza-tree-system
