@@ -8,6 +8,7 @@ Sistema de gerenciamento de pedidos de pizza que utiliza **árvore binária** pa
 Backend | Python, SQLite3, Flask 
 Frontend | HTML5, CSS3, JavaScript 
 Estrutura de Dados | Árvore binária de busca 
+Programação Orientada a objeto | Abstração, Herança, Polimorfismo, Encapsulamento
 Versionamento | Git, GitHub 
 
  Instruções de Execução
